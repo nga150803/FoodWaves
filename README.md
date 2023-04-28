@@ -1,3 +1,7 @@
+
+// Cách chạy website
+Màn hình chính có thể xem đc các mặt hàng  
+khi muốn thêm mặt hàng. phải nhấn vào avart để new items. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
